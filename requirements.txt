@@ -1,0 +1,10 @@
+streamlit
+langchain
+chromadb
+faiss-cpu
+transformers
+sentence-transformers
+pdfplumber
+pymupdf
+tesseract
+python-multipart
